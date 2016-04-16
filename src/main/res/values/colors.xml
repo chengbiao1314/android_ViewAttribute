@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="home_tab_background">#fff6f6f6</drawable>
+    <color name="tv_red">#f85050</color>
+
+</resources>
